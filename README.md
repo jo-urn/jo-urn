@@ -42,4 +42,5 @@
 </p>
 
 ### Stats
+![jo-urn's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jo-urn&theme=vue-dark&hide_border=true)
 [![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jo-urn&langs_count=7&theme=tokyonight)]()
